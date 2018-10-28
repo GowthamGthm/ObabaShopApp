@@ -15,7 +15,7 @@ export default class Dashboard extends React.Component {
 
 
     TestFunction() {
-// git test 
+// git test ed 2
         Alert.alert('Button Pressed !!!')
 
     }
